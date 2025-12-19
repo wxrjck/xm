@@ -1,0 +1,9 @@
+熊猫直播,#genre# 
+牧野,https://gcwbndali.v.myalicdn.com/gcwbnd/xiongmao15_2/index.m3u8
+苏琳,https://gcwbndali.v.myalicdn.com/gcwbnd/xiongmao14_2td.m3u8
+六号别墅B,https://gcwbndcnc.v.wscdns.com/gcwbnd/xiongmao04_2/index.m3u8
+六号别墅A,https://gcwbndcnc.v.wscdns.com/gcwbnd/xiongmao03_2/index.m3u8
+瑞喜、乔怡,https://gcwbndcnc.v.wscdns.com/gcwbnd/xiongmao12_2/index.m3u8
+淑琴,https://gcwbndali.v.myalicdn.com/gcwbnd/xiongmao13_2/index.m3u8
+春雨、吉福B,https://gcwbndcnc.v.wscdns.com/gcwbnd/xiongmao18_2/index.m3u8
+春野、秋野,https://gcwbndali.v.myalicdn.com/gcwbnd/xiongmao20_2/index.m3u8
